@@ -1,4 +1,4 @@
-# 2022-2 c-programming class
+# 2022-2 C-programming class
 
 This repository is what i learn about C-programming in University.
 
